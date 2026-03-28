@@ -113,3 +113,4 @@ Useful commands:
 - The order service accepts an additional internal completion event to move from `INVENTORY_RESERVED` to `ORDER_COMPLETED`, because the task specification does not include a separate public completion event.
 - Payment and inventory are intentionally stateless mocks so the saga logic stays centered in the orchestrator.
 # Implement-a-Distributed-Transactional-Saga-with-Spring-State-Machine
+# Implement-a-Distributed-Transactional-Saga-with-Spring-State-Machine
